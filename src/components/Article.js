@@ -4,6 +4,7 @@ function Article() {
   return (
     <div>
       {'please pass this test'}
+      {'here is a another line'}
     </div>
   );
 }
